@@ -148,8 +148,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prakharj0805/Prakharj0805/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Prakharj0805/Prakharj0805/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
