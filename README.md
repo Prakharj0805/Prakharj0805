@@ -1,11 +1,15 @@
-<!-- Animated Banner -->
+<!-- ======================= -->
+<!-- 🌊 Animated Banner -->
+<!-- ======================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Prakhar%20Jain&fontSize=48&fontAlignY=35&animation=fadeIn&color=0:2193B0,50:6DD5ED,100:6EE7B7" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ======================= -->
+<!-- ⌨️ Typing Animation -->
+<!-- ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Data+Analytics+Engineer;Frontend+Developer;Generative+AI+Enthusiast;Turning+Data+Into+Impactful+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Data+Analytics+Engineer;Generative+AI+Enthusiast;Turning+Data+Into+Actionable+Insights" />
 </p>
 
 <p align="center">
@@ -21,9 +25,9 @@
 📊 **CGPA: 8.86 / 10 (2022 – 2026)**  
 
 🤖 Built multiple **Machine Learning & AI projects** using Python  
-📊 Work daily with **Excel for data analysis** and **Power BI dashboards**  
-⚙️ Hands-on experience with **ML models, REST APIs & full-stack apps**  
-🚀 Exploring **Generative AI, cloud-based AI & scalable systems**
+📊 Regularly work with **Excel for data analysis** & **Power BI dashboards**  
+⚙️ Experience with **ML models, REST APIs & full-stack applications**  
+🚀 Exploring **Generative AI, cloud-based AI systems & scalable solutions**
 
 ---
 
@@ -74,35 +78,54 @@
 ## 📌 Featured Projects
 
 ### 🚦 Accident Detection Using YOLO
-🚘 Real-time accident detection from surveillance footage  
-- YOLO + OpenCV based detection system  
-- Frame-by-frame video processing  
-- **~90% accuracy** with low false positives  
-- **Tech:** Python, YOLO, TensorFlow, OpenCV  
+- Real-time accident detection system using **YOLO & OpenCV**
+- Frame-by-frame video processing
+- Achieved **~90% accuracy**
+- **Tech:** Python, YOLO, TensorFlow, OpenCV
 
 ---
 
 ### 🌾 Cropify – Multimodal Crop Prediction System
-🌱 Smart agriculture using ML  
-- Soil & weather-based ML models (**85%+ accuracy**)  
-- Flask-based web app for real-time prediction  
-- **Tech:** Python, Pandas, TensorFlow, Flask  
+- Soil & weather-based ML models (**85%+ accuracy**)
+- Flask web app for real-time prediction
+- **Tech:** Python, Pandas, TensorFlow, Flask
 
 ---
 
 ### 🧠 Mental Health Support Chatbot
-💬 AI-powered empathetic chatbot  
-- NLP-based sentiment & intent detection  
-- LangChain + LLM API integration  
-- **Tech:** Python, NLP, Flask, GenAI  
+- NLP-based empathetic chatbot
+- Sentiment & intent analysis using **LangChain & LLM APIs**
+- **Tech:** Python, NLP, Flask, GenAI APIs
 
 ---
 
 ### 📱 Colo – Student Collaboration Mobile App
-📚 Academic collaboration platform  
-- Notes sharing, calendar & discussion forums  
-- Optimized Firebase storage & APIs  
-- **Tech:** Flutter / React Native, Firebase, Python  
+- Academic collaboration & resource sharing platform
+- Firebase storage optimization & REST APIs
+- **Tech:** Flutter / React Native, Firebase, Python
+
+---
+
+## 📊 Power BI Projects & Dashboards
+
+### 📈 Sales Performance Dashboard
+- Revenue, region & product-wise analysis
+- Interactive slicers & KPIs
+- **Tools:** Power BI, Excel
+
+---
+
+### 👥 Customer Insights Dashboard
+- Customer segmentation & retention analysis
+- Drill-down enabled dashboards
+- **Tools:** Power BI, Excel
+
+---
+
+### 🌾 Agriculture Analytics Dashboard
+- Crop yield & weather trend visualization
+- ML output + Power BI integration
+- **Tools:** Power BI, Excel, Python
 
 ---
 
@@ -113,13 +136,19 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakharj0805&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakharj0805&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakharj0805&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakharj0805&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prakharj0805/Prakharj0805/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
