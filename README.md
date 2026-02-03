@@ -108,8 +108,8 @@
 
 ## 📊 Power BI Projects & Dashboards
 
-### 📈 Sales Performance Dashboard
-- Revenue, region & product-wise analysis
+### 📈 Weather Prediction Dashboard
+- Air Quality, region & Weather analysis
 - Interactive slicers & KPIs
 - **Tools:** Power BI, Excel
 
